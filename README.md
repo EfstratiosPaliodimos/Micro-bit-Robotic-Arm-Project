@@ -43,4 +43,4 @@ You can find the development kit manual in the following link:
 
 https://www.gigotoys.com/products/1269-en.html
 
-https://www.microsoft.com/en-us/makecode
+[https://www.microsoft.com/en-us/makecode](https://makecode.microbit.org/)https://makecode.microbit.org/
