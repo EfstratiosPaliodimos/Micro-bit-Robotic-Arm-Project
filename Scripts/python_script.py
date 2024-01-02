@@ -3,7 +3,8 @@
 # Author: Efstratios Paliodimos
 # Date: January 2, 2024
 # Editor/IDE: Microsoft MakeCode
-# Description: This code demonstrates motor and servo control using a micro:bit for the "Robotic Arm" project from GigoToys.
+# Description: This code demonstrates motor and servo control 
+# using a micro:bit for the "Robotic Arm" project from GigoToys.
 
 def on_pin_released_p2():
     pins.servo_write_pin(AnalogPin.P1, 100)
