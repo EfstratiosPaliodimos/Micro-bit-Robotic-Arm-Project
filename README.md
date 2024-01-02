@@ -24,7 +24,10 @@ The micro:bit, in conjunction with Microsoft MakeCode, empowers learners of all 
 
 ## Equipment
 
-The equipment is shown in the pdf file in __docs__, page 104. In general the equipment consists of:
+The equipment is shown in the pdf file in __Links__. Alternatively you can check the Docs folder.
+
+In general the equipment consists of:
+
 __Basic__
 - one micro:bit board
 - two IR Sensors
