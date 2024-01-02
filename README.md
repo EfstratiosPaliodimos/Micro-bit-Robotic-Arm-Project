@@ -7,7 +7,8 @@ The __micro:bit__ and __MakeCode__ are invaluable tools for nurturing digital sk
 - [Introduction](#introduction)
 - [Enviroment](#enviroment)
 - [Equipment](#equipment)
-- [Links](#Links)
+- [Operation](#operation)
+- [Links](#links)
 
 ## Introduction
 
@@ -21,7 +22,25 @@ The micro:bit, in conjunction with Microsoft MakeCode, empowers learners of all 
 
 ## Equipment
 
-The equipment is shown in the pdf file in __docs__, page 104. 
+The equipment is shown in the pdf file in __docs__, page 104. In general the equipment consists of:
+__Basic__
+- one micro:bit board
+- two IR Sensors
+- one servo motor
+- one "NO" push button
+- two Brushed DC electric motors
+- plastic blocks, parts, connectors etc
+
+## Operation
+
+Using the sensors and motors above and with two degrees of freedom, the Robotic Arm can perform:
+1) Left or Right rotation over a vertical axis (yaw)
+2) Back and forth movement on the same axis (pitch)
+3) Opening and closing its clamp
 
 ## Links
 You can find the development kit manual in the following link:
+
+https://www.gigotoys.com/products/1269-en.html
+
+https://www.microsoft.com/en-us/makecode
