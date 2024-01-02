@@ -1,3 +1,11 @@
+// Javascript Code for Controlling Motors and Servo using micro:bit
+
+// Author:      Efstratios Paliodimos
+// Date:        January 2, 2024
+// Editor/IDE:  Microsoft MakeCode
+// Description: This code demonstrates motor and servo control 
+//              using a micro:bit for the "Robotic Arm" project from GigoToys.
+    
 input.onPinReleased(TouchPin.P2, function () {
     pins.servoWritePin(AnalogPin.P1, 100)
     basic.showLeds(`
