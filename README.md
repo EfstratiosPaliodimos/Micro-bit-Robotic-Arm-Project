@@ -1,6 +1,6 @@
 # Micro:bit Robotic Arm (Overview)
 
-![412291697_748358680538623_5897034756868877983_n](https://github.com/EfstratiosPaliodimos/Micro-bit-Robotic-Arm-Project/assets/132993865/fb3df326-b6d1-4814-8def-f84e0fd3464e)
+
 
 The __micro:bit__ and __MakeCode__ are invaluable tools for nurturing digital skills and sparking innovation. This project will encompass robotics with simple coding especially for primary school education. __GigoToys__ provide a complete development kit (#1296 micro:bit COMPATIBLE ROBOTS) for this purpose.
 
